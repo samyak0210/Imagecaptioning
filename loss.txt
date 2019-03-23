@@ -1,0 +1,300 @@
+Epoch [0/100], Step [0/1272], Loss: 8.3802, Perplexity: 4359.8700
+Epoch [0/100], Step [1000/1272], Loss: 3.1088, Perplexity: 22.3945
+epoch 0 time 2.45 mins
+Epoch [1/100], Step [0/1272], Loss: 3.0772, Perplexity: 21.6986
+Epoch [1/100], Step [1000/1272], Loss: 3.1661, Perplexity: 23.7138
+epoch 1 time 2.50 mins
+Epoch [2/100], Step [0/1272], Loss: 3.0685, Perplexity: 21.5100
+Epoch [2/100], Step [1000/1272], Loss: 2.7026, Perplexity: 14.9186
+epoch 2 time 2.50 mins
+Epoch [3/100], Step [0/1272], Loss: 2.8808, Perplexity: 17.8293
+Epoch [3/100], Step [1000/1272], Loss: 2.7429, Perplexity: 15.5325
+epoch 3 time 2.51 mins
+Epoch [4/100], Step [0/1272], Loss: 2.2450, Perplexity: 9.4406
+Epoch [4/100], Step [1000/1272], Loss: 2.4050, Perplexity: 11.0789
+epoch 4 time 2.51 mins
+Epoch [5/100], Step [0/1272], Loss: 2.1053, Perplexity: 8.2093
+Epoch [5/100], Step [1000/1272], Loss: 2.5340, Perplexity: 12.6039
+epoch 5 time 2.51 mins
+Epoch [6/100], Step [0/1272], Loss: 2.0380, Perplexity: 7.6750
+Epoch [6/100], Step [1000/1272], Loss: 2.2542, Perplexity: 9.5274
+epoch 6 time 2.51 mins
+Epoch [7/100], Step [0/1272], Loss: 1.7876, Perplexity: 5.9752
+Epoch [7/100], Step [1000/1272], Loss: 1.8573, Perplexity: 6.4062
+epoch 7 time 2.53 mins
+Epoch [8/100], Step [0/1272], Loss: 1.7211, Perplexity: 5.5904
+Epoch [8/100], Step [1000/1272], Loss: 1.7413, Perplexity: 5.7048
+epoch 8 time 2.53 mins
+Epoch [9/100], Step [0/1272], Loss: 1.6480, Perplexity: 5.1965
+Epoch [9/100], Step [1000/1272], Loss: 1.7922, Perplexity: 6.0024
+epoch 9 time 2.52 mins
+Epoch [10/100], Step [0/1272], Loss: 1.5018, Perplexity: 4.4898
+Epoch [10/100], Step [1000/1272], Loss: 1.6128, Perplexity: 5.0166
+epoch 10 time 2.51 mins
+Epoch [11/100], Step [0/1272], Loss: 1.4546, Perplexity: 4.2829
+Epoch [11/100], Step [1000/1272], Loss: 1.5574, Perplexity: 4.7466
+epoch 11 time 2.51 mins
+Epoch [12/100], Step [0/1272], Loss: 1.2622, Perplexity: 3.5333
+Epoch [12/100], Step [1000/1272], Loss: 1.4900, Perplexity: 4.4372
+epoch 12 time 2.51 mins
+Epoch [13/100], Step [0/1272], Loss: 1.2291, Perplexity: 3.4182
+Epoch [13/100], Step [1000/1272], Loss: 1.4957, Perplexity: 4.4626
+epoch 13 time 2.52 mins
+Epoch [14/100], Step [0/1272], Loss: 1.2445, Perplexity: 3.4711
+Epoch [14/100], Step [1000/1272], Loss: 1.2248, Perplexity: 3.4035
+epoch 14 time 2.51 mins
+Epoch [15/100], Step [0/1272], Loss: 1.0340, Perplexity: 2.8123
+Epoch [15/100], Step [1000/1272], Loss: 1.2121, Perplexity: 3.3605
+epoch 15 time 2.50 mins
+Epoch [16/100], Step [0/1272], Loss: 0.9296, Perplexity: 2.5334
+Epoch [16/100], Step [1000/1272], Loss: 1.1670, Perplexity: 3.2122
+epoch 16 time 2.51 mins
+Epoch [17/100], Step [0/1272], Loss: 0.8947, Perplexity: 2.4465
+Epoch [17/100], Step [1000/1272], Loss: 1.0566, Perplexity: 2.8765
+epoch 17 time 2.50 mins
+Epoch [18/100], Step [0/1272], Loss: 0.9715, Perplexity: 2.6419
+Epoch [18/100], Step [1000/1272], Loss: 1.0461, Perplexity: 2.8466
+epoch 18 time 2.51 mins
+Epoch [19/100], Step [0/1272], Loss: 0.8653, Perplexity: 2.3758
+Epoch [19/100], Step [1000/1272], Loss: 1.0410, Perplexity: 2.8321
+epoch 19 time 2.51 mins
+Epoch [20/100], Step [0/1272], Loss: 0.8976, Perplexity: 2.4538
+Epoch [20/100], Step [1000/1272], Loss: 1.0929, Perplexity: 2.9830
+epoch 20 time 2.52 mins
+Epoch [21/100], Step [0/1272], Loss: 0.8571, Perplexity: 2.3564
+Epoch [21/100], Step [1000/1272], Loss: 0.9390, Perplexity: 2.5575
+epoch 21 time 2.51 mins
+Epoch [22/100], Step [0/1272], Loss: 0.8356, Perplexity: 2.3063
+Epoch [22/100], Step [1000/1272], Loss: 1.0225, Perplexity: 2.7802
+epoch 22 time 2.51 mins
+Epoch [23/100], Step [0/1272], Loss: 0.8170, Perplexity: 2.2637
+Epoch [23/100], Step [1000/1272], Loss: 0.9349, Perplexity: 2.5470
+epoch 23 time 2.51 mins
+Epoch [24/100], Step [0/1272], Loss: 0.7396, Perplexity: 2.0950
+Epoch [24/100], Step [1000/1272], Loss: 0.9801, Perplexity: 2.6648
+epoch 24 time 2.51 mins
+Epoch [25/100], Step [0/1272], Loss: 0.8307, Perplexity: 2.2949
+Epoch [25/100], Step [1000/1272], Loss: 0.9271, Perplexity: 2.5271
+epoch 25 time 2.52 mins
+Epoch [26/100], Step [0/1272], Loss: 0.6602, Perplexity: 1.9352
+Epoch [26/100], Step [1000/1272], Loss: 0.8766, Perplexity: 2.4028
+epoch 26 time 2.51 mins
+Epoch [27/100], Step [0/1272], Loss: 0.7210, Perplexity: 2.0565
+Epoch [27/100], Step [1000/1272], Loss: 0.9116, Perplexity: 2.4882
+epoch 27 time 2.51 mins
+Epoch [28/100], Step [0/1272], Loss: 0.7864, Perplexity: 2.1954
+Epoch [28/100], Step [1000/1272], Loss: 0.8808, Perplexity: 2.4128
+epoch 28 time 2.52 mins
+Epoch [29/100], Step [0/1272], Loss: 0.7896, Perplexity: 2.2026
+Epoch [29/100], Step [1000/1272], Loss: 0.7998, Perplexity: 2.2251
+epoch 29 time 2.51 mins
+Epoch [30/100], Step [0/1272], Loss: 0.7371, Perplexity: 2.0899
+Epoch [30/100], Step [1000/1272], Loss: 0.8403, Perplexity: 2.3172
+epoch 30 time 2.51 mins
+Epoch [31/100], Step [0/1272], Loss: 0.7816, Perplexity: 2.1850
+Epoch [31/100], Step [1000/1272], Loss: 0.8846, Perplexity: 2.4220
+epoch 31 time 2.52 mins
+Epoch [32/100], Step [0/1272], Loss: 0.7023, Perplexity: 2.0184
+Epoch [32/100], Step [1000/1272], Loss: 0.8240, Perplexity: 2.2795
+epoch 32 time 2.52 mins
+Epoch [33/100], Step [0/1272], Loss: 0.6547, Perplexity: 1.9246
+Epoch [33/100], Step [1000/1272], Loss: 0.8459, Perplexity: 2.3300
+epoch 33 time 2.53 mins
+Epoch [34/100], Step [0/1272], Loss: 0.7000, Perplexity: 2.0138
+Epoch [34/100], Step [1000/1272], Loss: 0.8756, Perplexity: 2.4004
+epoch 34 time 2.51 mins
+Epoch [35/100], Step [0/1272], Loss: 0.7620, Perplexity: 2.1426
+Epoch [35/100], Step [1000/1272], Loss: 0.8103, Perplexity: 2.2485
+epoch 35 time 2.51 mins
+Epoch [36/100], Step [0/1272], Loss: 0.7129, Perplexity: 2.0398
+Epoch [36/100], Step [1000/1272], Loss: 0.7828, Perplexity: 2.1877
+epoch 36 time 2.51 mins
+Epoch [37/100], Step [0/1272], Loss: 0.7609, Perplexity: 2.1402
+Epoch [37/100], Step [1000/1272], Loss: 0.7817, Perplexity: 2.1852
+epoch 37 time 2.52 mins
+Epoch [38/100], Step [0/1272], Loss: 0.6704, Perplexity: 1.9550
+Epoch [38/100], Step [1000/1272], Loss: 0.7593, Perplexity: 2.1368
+epoch 38 time 2.52 mins
+Epoch [39/100], Step [0/1272], Loss: 0.6630, Perplexity: 1.9407
+Epoch [39/100], Step [1000/1272], Loss: 0.7195, Perplexity: 2.0534
+epoch 39 time 2.51 mins
+Epoch [40/100], Step [0/1272], Loss: 0.6249, Perplexity: 1.8681
+Epoch [40/100], Step [1000/1272], Loss: 0.7654, Perplexity: 2.1499
+epoch 40 time 2.51 mins
+Epoch [41/100], Step [0/1272], Loss: 0.6691, Perplexity: 1.9524
+Epoch [41/100], Step [1000/1272], Loss: 0.8101, Perplexity: 2.2481
+epoch 41 time 2.51 mins
+Epoch [42/100], Step [0/1272], Loss: 0.6738, Perplexity: 1.9618
+Epoch [42/100], Step [1000/1272], Loss: 0.8049, Perplexity: 2.2365
+epoch 42 time 2.52 mins
+Epoch [43/100], Step [0/1272], Loss: 0.6643, Perplexity: 1.9432
+Epoch [43/100], Step [1000/1272], Loss: 0.7970, Perplexity: 2.2189
+epoch 43 time 2.52 mins
+Epoch [44/100], Step [0/1272], Loss: 0.7029, Perplexity: 2.0196
+Epoch [44/100], Step [1000/1272], Loss: 0.7771, Perplexity: 2.1751
+epoch 44 time 2.51 mins
+Epoch [45/100], Step [0/1272], Loss: 0.6676, Perplexity: 1.9496
+Epoch [45/100], Step [1000/1272], Loss: 0.7037, Perplexity: 2.0211
+epoch 45 time 2.51 mins
+Epoch [46/100], Step [0/1272], Loss: 0.6731, Perplexity: 1.9604
+Epoch [46/100], Step [1000/1272], Loss: 0.7376, Perplexity: 2.0909
+epoch 46 time 2.51 mins
+Epoch [47/100], Step [0/1272], Loss: 0.6582, Perplexity: 1.9313
+Epoch [47/100], Step [1000/1272], Loss: 0.8196, Perplexity: 2.2696
+epoch 47 time 2.52 mins
+Epoch [48/100], Step [0/1272], Loss: 0.8047, Perplexity: 2.2361
+Epoch [48/100], Step [1000/1272], Loss: 0.7697, Perplexity: 2.1592
+epoch 48 time 2.52 mins
+Epoch [49/100], Step [0/1272], Loss: 0.6708, Perplexity: 1.9558
+Epoch [49/100], Step [1000/1272], Loss: 0.7787, Perplexity: 2.1786
+epoch 49 time 2.51 mins
+Epoch [50/100], Step [0/1272], Loss: 0.7371, Perplexity: 2.0899
+Epoch [50/100], Step [1000/1272], Loss: 0.7160, Perplexity: 2.0463
+epoch 50 time 2.51 mins
+Epoch [51/100], Step [0/1272], Loss: 0.7174, Perplexity: 2.0491
+Epoch [51/100], Step [1000/1272], Loss: 0.8395, Perplexity: 2.3151
+epoch 51 time 2.51 mins
+Epoch [52/100], Step [0/1272], Loss: 0.6129, Perplexity: 1.8457
+Epoch [52/100], Step [1000/1272], Loss: 0.7423, Perplexity: 2.1008
+epoch 52 time 2.51 mins
+Epoch [53/100], Step [0/1272], Loss: 0.6669, Perplexity: 1.9482
+Epoch [53/100], Step [1000/1272], Loss: 0.7474, Perplexity: 2.1116
+epoch 53 time 2.51 mins
+Epoch [54/100], Step [0/1272], Loss: 0.6603, Perplexity: 1.9353
+Epoch [54/100], Step [1000/1272], Loss: 0.8243, Perplexity: 2.2802
+epoch 54 time 2.51 mins
+Epoch [55/100], Step [0/1272], Loss: 0.6424, Perplexity: 1.9010
+Epoch [55/100], Step [1000/1272], Loss: 0.7630, Perplexity: 2.1446
+epoch 55 time 2.51 mins
+Epoch [56/100], Step [0/1272], Loss: 0.6777, Perplexity: 1.9694
+Epoch [56/100], Step [1000/1272], Loss: 0.7348, Perplexity: 2.0851
+epoch 56 time 2.50 mins
+Epoch [57/100], Step [0/1272], Loss: 0.6756, Perplexity: 1.9653
+Epoch [57/100], Step [1000/1272], Loss: 0.8155, Perplexity: 2.2603
+epoch 57 time 2.52 mins
+Epoch [58/100], Step [0/1272], Loss: 0.7352, Perplexity: 2.0859
+Epoch [58/100], Step [1000/1272], Loss: 0.7264, Perplexity: 2.0676
+epoch 58 time 2.52 mins
+Epoch [59/100], Step [0/1272], Loss: 0.6439, Perplexity: 1.9038
+Epoch [59/100], Step [1000/1272], Loss: 0.7745, Perplexity: 2.1695
+epoch 59 time 2.52 mins
+Epoch [60/100], Step [0/1272], Loss: 0.6584, Perplexity: 1.9318
+Epoch [60/100], Step [1000/1272], Loss: 0.7209, Perplexity: 2.0563
+epoch 60 time 2.51 mins
+Epoch [61/100], Step [0/1272], Loss: 0.5980, Perplexity: 1.8184
+Epoch [61/100], Step [1000/1272], Loss: 0.8481, Perplexity: 2.3353
+epoch 61 time 2.51 mins
+Epoch [62/100], Step [0/1272], Loss: 0.6889, Perplexity: 1.9914
+Epoch [62/100], Step [1000/1272], Loss: 0.7682, Perplexity: 2.1559
+epoch 62 time 2.51 mins
+Epoch [63/100], Step [0/1272], Loss: 0.6381, Perplexity: 1.8929
+Epoch [63/100], Step [1000/1272], Loss: 0.7676, Perplexity: 2.1545
+epoch 63 time 2.51 mins
+Epoch [64/100], Step [0/1272], Loss: 0.6452, Perplexity: 1.9064
+Epoch [64/100], Step [1000/1272], Loss: 0.7481, Perplexity: 2.1129
+epoch 64 time 2.51 mins
+Epoch [65/100], Step [0/1272], Loss: 0.7511, Perplexity: 2.1194
+Epoch [65/100], Step [1000/1272], Loss: 0.8287, Perplexity: 2.2903
+epoch 65 time 2.51 mins
+Epoch [66/100], Step [0/1272], Loss: 0.6334, Perplexity: 1.8839
+Epoch [66/100], Step [1000/1272], Loss: 0.7569, Perplexity: 2.1317
+epoch 66 time 2.51 mins
+Epoch [67/100], Step [0/1272], Loss: 0.7450, Perplexity: 2.1063
+Epoch [67/100], Step [1000/1272], Loss: 0.7297, Perplexity: 2.0745
+epoch 67 time 2.51 mins
+Epoch [68/100], Step [0/1272], Loss: 0.6366, Perplexity: 1.8900
+Epoch [68/100], Step [1000/1272], Loss: 0.8029, Perplexity: 2.2319
+epoch 68 time 2.51 mins
+Epoch [69/100], Step [0/1272], Loss: 0.6409, Perplexity: 1.8981
+Epoch [69/100], Step [1000/1272], Loss: 0.7606, Perplexity: 2.1396
+epoch 69 time 2.51 mins
+Epoch [70/100], Step [0/1272], Loss: 0.7114, Perplexity: 2.0368
+Epoch [70/100], Step [1000/1272], Loss: 0.8001, Perplexity: 2.2258
+epoch 70 time 2.51 mins
+Epoch [71/100], Step [0/1272], Loss: 0.7374, Perplexity: 2.0905
+Epoch [71/100], Step [1000/1272], Loss: 0.8128, Perplexity: 2.2543
+epoch 71 time 2.51 mins
+Epoch [72/100], Step [0/1272], Loss: 0.6159, Perplexity: 1.8514
+Epoch [72/100], Step [1000/1272], Loss: 0.7709, Perplexity: 2.1617
+epoch 72 time 2.50 mins
+Epoch [73/100], Step [0/1272], Loss: 0.6973, Perplexity: 2.0084
+Epoch [73/100], Step [1000/1272], Loss: 0.7850, Perplexity: 2.1925
+epoch 73 time 2.51 mins
+Epoch [74/100], Step [0/1272], Loss: 0.7052, Perplexity: 2.0242
+Epoch [74/100], Step [1000/1272], Loss: 0.8332, Perplexity: 2.3007
+epoch 74 time 2.51 mins
+Epoch [75/100], Step [0/1272], Loss: 0.6928, Perplexity: 1.9994
+Epoch [75/100], Step [1000/1272], Loss: 0.8617, Perplexity: 2.3672
+epoch 75 time 2.51 mins
+Epoch [76/100], Step [0/1272], Loss: 0.7681, Perplexity: 2.1557
+Epoch [76/100], Step [1000/1272], Loss: 0.8242, Perplexity: 2.2800
+epoch 76 time 2.51 mins
+Epoch [77/100], Step [0/1272], Loss: 0.7233, Perplexity: 2.0612
+Epoch [77/100], Step [1000/1272], Loss: 0.8368, Perplexity: 2.3089
+epoch 77 time 2.50 mins
+Epoch [78/100], Step [0/1272], Loss: 0.6924, Perplexity: 1.9986
+Epoch [78/100], Step [1000/1272], Loss: 0.8361, Perplexity: 2.3073
+epoch 78 time 2.50 mins
+Epoch [79/100], Step [0/1272], Loss: 0.6070, Perplexity: 1.8349
+Epoch [79/100], Step [1000/1272], Loss: 0.6891, Perplexity: 1.9919
+epoch 79 time 2.50 mins
+Epoch [80/100], Step [0/1272], Loss: 0.7556, Perplexity: 2.1288
+Epoch [80/100], Step [1000/1272], Loss: 0.8808, Perplexity: 2.4127
+epoch 80 time 2.50 mins
+Epoch [81/100], Step [0/1272], Loss: 0.7875, Perplexity: 2.1978
+Epoch [81/100], Step [1000/1272], Loss: 0.7472, Perplexity: 2.1110
+epoch 81 time 2.50 mins
+Epoch [82/100], Step [0/1272], Loss: 0.6781, Perplexity: 1.9702
+Epoch [82/100], Step [1000/1272], Loss: 0.8452, Perplexity: 2.3285
+epoch 82 time 2.50 mins
+Epoch [83/100], Step [0/1272], Loss: 0.7575, Perplexity: 2.1329
+Epoch [83/100], Step [1000/1272], Loss: 0.8113, Perplexity: 2.2508
+epoch 83 time 2.51 mins
+Epoch [84/100], Step [0/1272], Loss: 0.7171, Perplexity: 2.0484
+Epoch [84/100], Step [1000/1272], Loss: 0.7981, Perplexity: 2.2214
+epoch 84 time 2.50 mins
+Epoch [85/100], Step [0/1272], Loss: 0.7720, Perplexity: 2.1641
+Epoch [85/100], Step [1000/1272], Loss: 0.7760, Perplexity: 2.1728
+epoch 85 time 2.50 mins
+Epoch [86/100], Step [0/1272], Loss: 0.7098, Perplexity: 2.0337
+Epoch [86/100], Step [1000/1272], Loss: 0.8580, Perplexity: 2.3585
+epoch 86 time 2.51 mins
+Epoch [87/100], Step [0/1272], Loss: 0.6855, Perplexity: 1.9847
+Epoch [87/100], Step [1000/1272], Loss: 0.7535, Perplexity: 2.1244
+epoch 87 time 2.50 mins
+Epoch [88/100], Step [0/1272], Loss: 0.6803, Perplexity: 1.9746
+Epoch [88/100], Step [1000/1272], Loss: 0.8057, Perplexity: 2.2382
+epoch 88 time 2.51 mins
+Epoch [89/100], Step [0/1272], Loss: 0.7280, Perplexity: 2.0709
+Epoch [89/100], Step [1000/1272], Loss: 0.7665, Perplexity: 2.1523
+epoch 89 time 2.51 mins
+Epoch [90/100], Step [0/1272], Loss: 0.6856, Perplexity: 1.9849
+Epoch [90/100], Step [1000/1272], Loss: 0.9277, Perplexity: 2.5288
+epoch 90 time 2.51 mins
+Epoch [91/100], Step [0/1272], Loss: 0.8202, Perplexity: 2.2709
+Epoch [91/100], Step [1000/1272], Loss: 0.8764, Perplexity: 2.4021
+epoch 91 time 2.51 mins
+Epoch [92/100], Step [0/1272], Loss: 0.6815, Perplexity: 1.9768
+Epoch [92/100], Step [1000/1272], Loss: 0.7515, Perplexity: 2.1202
+epoch 92 time 2.51 mins
+Epoch [93/100], Step [0/1272], Loss: 0.7444, Perplexity: 2.1052
+Epoch [93/100], Step [1000/1272], Loss: 0.9196, Perplexity: 2.5084
+epoch 93 time 2.50 mins
+Epoch [94/100], Step [0/1272], Loss: 0.7986, Perplexity: 2.2224
+Epoch [94/100], Step [1000/1272], Loss: 0.8893, Perplexity: 2.4333
+epoch 94 time 2.51 mins
+Epoch [95/100], Step [0/1272], Loss: 0.6982, Perplexity: 2.0100
+Epoch [95/100], Step [1000/1272], Loss: 0.8602, Perplexity: 2.3637
+epoch 95 time 2.51 mins
+Epoch [96/100], Step [0/1272], Loss: 0.7883, Perplexity: 2.1997
+Epoch [96/100], Step [1000/1272], Loss: 0.7676, Perplexity: 2.1545
+epoch 96 time 2.51 mins
+Epoch [97/100], Step [0/1272], Loss: 0.6935, Perplexity: 2.0007
+Epoch [97/100], Step [1000/1272], Loss: 0.8418, Perplexity: 2.3206
+epoch 97 time 2.50 mins
+Epoch [98/100], Step [0/1272], Loss: 0.8368, Perplexity: 2.3089
+Epoch [98/100], Step [1000/1272], Loss: 0.9341, Perplexity: 2.5449
+epoch 98 time 2.50 mins
+Epoch [99/100], Step [0/1272], Loss: 0.7994, Perplexity: 2.2242
+Epoch [99/100], Step [1000/1272], Loss: 0.8535, Perplexity: 2.3479
+epoch 99 time 2.51 mins
